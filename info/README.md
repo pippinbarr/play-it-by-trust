@@ -3,7 +3,7 @@
 ![Banner](images/play-it-by-trust-banner.png)
 
 ## [Play *Play It By Trust* Online](../index.html) (Desktop only)
-## [Download the *Play It By Trust* ROM](https://github.com/pippinbarr/super-mario-nothing/releases/tag/roms) (for your NES emulator of choice)
+## [Download the *Play It By Trust* ROM](https://github.com/pippinbarr/play-it-by-trust/releases/tag/v1.0) (for your NES emulator of choice)
 
 ## Description
 
