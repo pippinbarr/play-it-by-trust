@@ -1,5 +1,5 @@
 const clickToStart = document.getElementById("clicktostart");
-clickToStart.addEventListener("click", startEmulator);
+clickToStart.addEventListener("mousedown", startEmulator);
 
 function startEmulator() {
     clickToStart.style.display = "none";
